@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋, I'm Elizabeth Acevedo</h1>
 <h3 align="center">I'm a recent Cal Poly San Luis Obispo graduate in Computer Engineering.</h3>
 
-- 🔭 I’m currently working on **a Home Security Device using a Swift-based iOS app**
+- 🔭 I’m currently working on a **Home Security Device using a Swift-based iOS app**
+- 🌱 Learning & improving: **embedded C programming**, **electronics design**, and **IoT systems**  
+
+## 🚀 Featured Projects  
+
+- [**Portable Security Device**](https://github.com/ElizabethAce/Portable-Security-Device)  
+  A travel-ready intrusion detection device for hotel rooms and homes.  
+  **Tech:** ESP32, C, sensors, buzzer, Swift (iOS app).  
+
+- [**Function Generator**](https://github.com/ElizabethAce/Function-Generator)  
+  A microcontroller-based signal generator with adjustable frequency and waveform output.  
+  **Tech:** STM32, C, DAC, keypad, oscilloscope.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
