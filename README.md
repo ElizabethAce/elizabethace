@@ -1,6 +1,10 @@
-<h1 align="center">Hi, I'm Elizabeth Acevedo</h1>
-<h3 align="center">I'm a recent Cal Poly San Luis Obispo graduate in Computer Engineering.</h3>
+# Hi, I'm Elizabeth Acevedo
+<p align="left">
+  <img src="https://ucm.calpoly.edu/sites/default/files/inline-images/seal_page_graphics_0.png" alt="Cal Poly Seal" width="70" style="vertical-align:middle; margin-right:8px;"/>
+  <span style="position:relative; top:-6px;"><strong><code>Computer Engineering Alumna</code></strong>
+</p>
 
+## About Me 
 - 🔭 I’m currently working on a **Home Security Device using a Swift-based iOS app**
 - 🌱 Learning & improving: **app development**, **embedded C programming**, **electronics design**, and **IoT systems**  
 
