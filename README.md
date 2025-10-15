@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Elizabeth Acevedo</h1>
+<h1 align="center">Hi, I'm Elizabeth Acevedo</h1>
 <h3 align="center">I'm a recent Cal Poly San Luis Obispo graduate in Computer Engineering.</h3>
 
 - 🔭 I’m currently working on a **Home Security Device using a Swift-based iOS app**
-- 🌱 Learning & improving: **embedded C programming**, **electronics design**, and **IoT systems**  
+- 🌱 Learning & improving: **app development**, **embedded C programming**, **electronics design**, and **IoT systems**  
 
 ## 🚀 Featured Projects  
 
 - [**Portable Security Device**](https://github.com/ElizabethAce/Portable-Security-Device)  
   A travel-ready intrusion detection device for hotel rooms and homes.  
-  **Tech:** ESP32, C, sensors, buzzer, Swift (iOS app).  
+  **Tech:** ESP32, sensors, LEDs, buzzer, Swift (iOS app), C programming.  
 
 - [**Function Generator**](https://github.com/ElizabethAce/Function-Generator)  
   A microcontroller-based signal generator with adjustable frequency and waveform output.  
-  **Tech:** STM32, C, DAC, keypad, oscilloscope.  
+  **Tech:** STM32, DAC, keypad, oscilloscope, C programming.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +20,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"> <img src="https://stmicroelectronics.gallerycdn.vsassets.io/extensions/stmicroelectronics/stm32-vscode-extension/3.6.3/1759174927511/Microsoft.VisualStudio.Services.Icons.Default" alt=“stm32” width="40" height="40"/> </a> </p>
