@@ -26,7 +26,7 @@
   A travel-ready intrusion detection device for hotel rooms and homes.  
   **Tech:** ESP32, sensors, LEDs, buzzer, Swift (iOS app), C programming.  
 
-- [**Function Generator**](https://github.com/ElizabethAce/Function-Generator)  
+- [**Function Generator**](https://github.com/ElizabethAce/Simulated-Function_Generator)  
   A microcontroller-based signal generator with adjustable frequency and waveform output.  
   **Tech:** STM32, DAC, keypad, oscilloscope, C programming.  
 
