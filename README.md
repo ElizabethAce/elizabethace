@@ -18,7 +18,7 @@
 
 ## About Me 
 - 🔭 I’m currently working on a **Home Security Device that uses a Swift-based iOS app**
-- 🌱 Learning & improving: **app development**, **embedded C programming**, **electronics design**, and **IoT systems**  
+- 🌱 Learning & improving: **website and app development**, **embedded C programming**, **electronics design**, and **IoT systems**  
 
 ## 🚀 Featured Projects  
 
