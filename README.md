@@ -18,7 +18,7 @@
 
 ## About Me 
 - 🔭 I’m currently working on a **Home Security Device that uses a Swift-based iOS app**
-- 🌱 Learning & improving: **website and app development**, **embedded C programming**, **electronics design**, and **IoT systems**  
+- 🌱 Learning & improving: **website and app development**, **embedded C programming**, **electronics design**, and **refining soldering skills**  
 
 ## 🚀 Featured Projects  
 
@@ -28,7 +28,15 @@
 
 - [**Function Generator**](https://github.com/ElizabethAce/Simulated-Function_Generator)  
   A microcontroller-based signal generator with adjustable frequency and waveform output.  
-  **Tech:** STM32, DAC, keypad, oscilloscope, C programming.  
+  **Tech:** STM32, DAC, keypad, oscilloscope, C programming.
+
+- [**Number Guessing Game**](https://github.com/ElizabethAce/Number-Guessing-Game)  
+  A number guessing game that takes user input and randomly generates the correct number at each runtime using the Python random module.  
+  **Tech:** Python programming, random module.
+
+- [**My Personal Portfolio Webpage**](https://github.com/ElizabethAce/Elizabeth-s-Website)  
+  A webpage showcasing a few personal projects designed to cover foundatinal concepts to webpage creation and flexibilty in design preferences. 
+  **Tech:** HTML/CSS & JavaScript programming, GitHub Pages.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
