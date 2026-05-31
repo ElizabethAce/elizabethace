@@ -35,7 +35,7 @@
   **Tech:** Python programming, random module.
 
 - [**My Personal Portfolio Webpage**](https://github.com/ElizabethAce/Elizabeth-s-Website)  
-  A webpage showcasing a few personal projects designed to cover foundatinal concepts to webpage creation and flexibilty in design preferences. 
+  A webpage showcasing a few personal projects designed to cover foundatinal concepts to webpage creation and flexibilty in design preferences.
   **Tech:** HTML/CSS & JavaScript programming, GitHub Pages.
 
 <h3 align="left">Connect with me:</h3>
