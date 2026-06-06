@@ -42,7 +42,7 @@
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
       <div align="center">
         <a href="https://github.com/ElizabethAce/Number-Guessing-Game" target="_blank" rel="noreferrer">
-          <img width="455" height="455" alt="NumGuessGPixl2" src="https://github.com/user-attachments/assets/62e12fb1-4179-47c9-b3fa-b34b1b8bbbe1" />
+          <img width="400" height="400" alt="NumGuessGPixl2" src="https://github.com/user-attachments/assets/62e12fb1-4179-47c9-b3fa-b34b1b8bbbe1" />
         </a>
         <h3>Number Guessing Game</h3>
         <p style="font-size: 14px;">
