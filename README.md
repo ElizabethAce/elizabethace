@@ -42,14 +42,14 @@
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
       <div align="center">
         <a href="github repo" target="_blank" rel="noreferrer">
-         <img width="512" height="512" alt="name" src="imgsrc" /> 
+          <img width="480" height="480" alt="NumGuessGPixl" src="https://github.com/user-attachments/assets/a13aa637-396b-42cc-ab3d-97d95a53c921" />
         </a>
-        <h3>Name/title</h3>
+        <h3>Number Guessing Game</h3>
         <p style="font-size: 14px;">
-          Description
+          A number guessing game that takes user input and randomly generates the correct number at each runtime using the Python random module.
         </p>
         <p>
-         <b>Tech:</b> , 
+         <b>Tech:</b> Python programming, random module.
         </p>
       </div>
     </td>
@@ -59,10 +59,6 @@
 - [**Portable Security Device**](https://github.com/ElizabethAce/Portable-Security-Device)  
   A travel-ready intrusion detection device for hotel rooms and homes.  
   **Tech:** ESP32, sensors, LEDs, buzzer, Swift (iOS app), embedded C.  
-
-- [**Number Guessing Game**](https://github.com/ElizabethAce/Number-Guessing-Game)  
-  A number guessing game that takes user input and randomly generates the correct number at each runtime using the Python random module.  
-  **Tech:** Python programming, random module.
 
 - [**My Personal Portfolio Webpage**](https://github.com/ElizabethAce/Elizabeth-s-Website)  
   A webpage showcasing a few personal projects designed to cover foundatinal concepts to webpage creation and flexibilty in design preferences.  
