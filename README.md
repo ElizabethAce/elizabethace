@@ -31,10 +31,10 @@
         </a>
         <h3>Simulated Function Generator</h3>
         <p style="font-size: 14px;">
-          Simulates a function generator that generates different wavelengths, adjusts frequencies, and duty cycle in a click of a button!
+          A microcontroller-based signal generator with adjustable frequency and waveform output.
         </p>
         <p>
-          <b>Tech:</b> C, STM32, DAC
+          <b>Tech:</b> STM32, DAC, keypad, oscilloscope, C programming.
         </p>
       </div>
     </td>
@@ -59,10 +59,6 @@
 - [**Portable Security Device**](https://github.com/ElizabethAce/Portable-Security-Device)  
   A travel-ready intrusion detection device for hotel rooms and homes.  
   **Tech:** ESP32, sensors, LEDs, buzzer, Swift (iOS app), C programming.  
-
-- [**Function Generator**](https://github.com/ElizabethAce/Simulated-Function_Generator)  
-  A microcontroller-based signal generator with adjustable frequency and waveform output.  
-  **Tech:** STM32, DAC, keypad, oscilloscope, C programming.
 
 - [**Number Guessing Game**](https://github.com/ElizabethAce/Number-Guessing-Game)  
   A number guessing game that takes user input and randomly generates the correct number at each runtime using the Python random module.  
