@@ -28,14 +28,13 @@
       <div align="center">
         <a href="https://github.com/ElizabethAce/Simulated-Function_Generator" target="_blank" rel="noreferrer">
          <img width="480" height="480" alt="FuncGenSimPixl" src="https://github.com/user-attachments/assets/b18f266c-acec-4ee0-bbbe-a4bf1253d2f7" />
-          <img width="480" height="480" alt="SimFuncG_nobckgnd" src="https://github.com/user-attachments/assets/30a5118b-d60a-4fbf-a573-ad4a509bd79d" />
         </a>
         <h3>Simulated Function Generator</h3>
         <p style="font-size: 14px;">
           A microcontroller-based signal generator with adjustable frequency and waveform output.
         </p>
         <p>
-          <b>Tech:</b> STM32, DAC, keypad, oscilloscope, C programming.
+          <b>Tech:</b> STM32, DAC, keypad, oscilloscope, embedded C.
         </p>
       </div>
     </td>
@@ -59,7 +58,7 @@
 
 - [**Portable Security Device**](https://github.com/ElizabethAce/Portable-Security-Device)  
   A travel-ready intrusion detection device for hotel rooms and homes.  
-  **Tech:** ESP32, sensors, LEDs, buzzer, Swift (iOS app), C programming.  
+  **Tech:** ESP32, sensors, LEDs, buzzer, Swift (iOS app), embedded C.  
 
 - [**Number Guessing Game**](https://github.com/ElizabethAce/Number-Guessing-Game)  
   A number guessing game that takes user input and randomly generates the correct number at each runtime using the Python random module.  
