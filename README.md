@@ -21,6 +21,40 @@
 - 🌱 Learning & improving: **website and app development**, **embedded C programming**, **electronics design**, and **refining soldering skills**  
 
 ## 🚀 Featured Projects  
+<table style="border: none; width: 100%;">
+  <tr>
+    <!-- Project 1 -->
+    <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
+      <div align="center">
+        <a href="https://github.com/ElizabethAce/Simulated-Function_Generator" target="_blank" rel="noreferrer">
+         <img src="https://github.com/user-attachments/assets/fdd7757e-1e70-4902-bf59-eba532cc8b9e" alt="pixil-frame-0" width="455" height="455"/>
+        </a>
+        <h3>Simulated Function Generator</h3>
+        <p style="font-size: 14px;">
+          Simulates a function generator that generates different wavelengths, adjusts frequencies, and duty cycle in a click of a button!
+        </p>
+        <p>
+          <b>Tech:</b> C, STM32, DAC
+        </p>
+      </div>
+    </td>
+    <!-- Project 2 -->
+    <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
+      <div align="center">
+        <a href="github repo" target="_blank" rel="noreferrer">
+         <img width="512" height="512" alt="name" src="imgsrc" /> 
+        </a>
+        <h3>Name/title</h3>
+        <p style="font-size: 14px;">
+          Description
+        </p>
+        <p>
+         <b>Tech:</b> , 
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 - [**Portable Security Device**](https://github.com/ElizabethAce/Portable-Security-Device)  
   A travel-ready intrusion detection device for hotel rooms and homes.  
