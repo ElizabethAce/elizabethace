@@ -27,7 +27,7 @@
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
       <div align="center">
         <a href="https://github.com/ElizabethAce/Simulated-Function_Generator" target="_blank" rel="noreferrer">
-         <img width="480" height="480" alt="FuncGenSimPixl" src="https://github.com/user-attachments/assets/fe11b99c-c6ce-4f9e-a513-9f79539deac8" />
+         <img width="480" height="480" alt="FuncGenSimPixl" src="https://github.com/user-attachments/assets/e77cdc64-0d7c-444a-b7e7-be08af0c0330" />
         </a>
         <h3>Simulated Function Generator</h3>
         <p style="font-size: 14px;">
