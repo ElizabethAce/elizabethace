@@ -27,7 +27,7 @@
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
       <div align="center">
         <a href="https://github.com/ElizabethAce/Simulated-Function_Generator" target="_blank" rel="noreferrer">
-         <img width="500" height="500" alt="FuncGenSimPixl" src="https://github.com/user-attachments/assets/b18f266c-acec-4ee0-bbbe-a4bf1253d2f7" />
+         <img width="510" height="510" alt="FuncGenSimPixl" src="https://github.com/user-attachments/assets/b18f266c-acec-4ee0-bbbe-a4bf1253d2f7" />
         </a>
         <h3>Simulated Function Generator</h3>
         <p style="font-size: 14px;">
@@ -42,7 +42,7 @@
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
       <div align="center">
         <a href="https://github.com/ElizabethAce/Number-Guessing-Game" target="_blank" rel="noreferrer">
-          <img width="385" height="385" alt="NumGuessGameBlueV" src="https://github.com/user-attachments/assets/a36ea239-1e91-400f-b58d-dcc82c80c44b" />
+          <img width="365" height="365" alt="NumGuessGameBlueV" src="https://github.com/user-attachments/assets/a36ea239-1e91-400f-b58d-dcc82c80c44b" />
         </a>
         <h3>Number Guessing Game</h3>
         <p style="font-size: 14px;">
