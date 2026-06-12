@@ -17,7 +17,7 @@
 </table>
 
 ## About Me 
-- 🔭 I’m currently working on a **Home Security Device that uses a Swift-based iOS app**
+- 🔭 I’m currently working on a **Local Network Security Monitor** that will use a Raspberry Pi to continuously monitor my network for any security breaches.
 - 🌱 Learning & improving: **website and app development**, **embedded C programming**, **electronics design**, and **refining soldering skills**  
 
 ## 🚀 Featured Projects  
