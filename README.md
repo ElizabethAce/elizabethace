@@ -66,7 +66,7 @@
           </small>
         </p>
         <p align="center">
-          <small><b>Tech:</b><br> STM32 • DAC • Keypad • Oscilloscope • Embedded C</small>
+          <small><b>Tech:</b><br> STM32 • DAC • Oscilloscope • Embedded C</small>
         </p>
         <p align="center">
           <sub>
