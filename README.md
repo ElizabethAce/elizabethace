@@ -26,8 +26,32 @@
     <!-- Project 1 -->
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
       <div>
+        <a href="https://github.com/ElizabethAce/Local-Network-Security-Monitor" target="_blank" rel="noreferrer">
+        <p align="center">
+          <img width="180" alt="LocalNetSecMonitor" src="https://github.com/user-attachments/assets/d35fe3f7-6bec-4088-8a92-2c823b21c64c" style="display:block; margin:auto;"/>
+        </p>
+        </a>
+        <p align="center">
+          <b>Network Security Monitor</b>
+        </p>
+        <p align="center" style="font-size: 12px;">
+          Detects devices on a local network and alerts users to potentially unauthorized connections.
+        </p>
+        <p align="center">
+         <b>Tech:</b><br> Python • SQLite • Scapy
+        </p>
+        <p align="center" font-size: 5px;">
+          🟡 Active Development
+        </p>
+      </div>
+    </td>
+    <!-- Project 2 -->
+    <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
+      <div>
         <a href="https://github.com/ElizabethAce/Simulated-Function_Generator" target="_blank" rel="noreferrer">
-         <img width="200" alt="FuncGenSimPixl" src="https://github.com/user-attachments/assets/b18f266c-acec-4ee0-bbbe-a4bf1253d2f7" style="display:block;" margin:auto; />
+        <p align="center">
+          <img width="180" alt="FuncGenSimPixl" src="https://github.com/user-attachments/assets/b18f266c-acec-4ee0-bbbe-a4bf1253d2f7" style="display:block; margin:auto;" />
+        </p>
         </a>
         <p align="center">
           <b>Simulated Function Generator</b>
@@ -38,39 +62,30 @@
         <p align="center">
           <b>Tech:</b><br> STM32 • DAC • Keypad • Oscilloscope • Embedded C
         </p>
+        <p align="center" font-size: 5px;">
+          🟢 Completed
+        </p>
       </div>
     </td>
-    <!-- Project 2 -->
+    <!-- Project 3 -->
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
       <div>
         <a href="https://github.com/ElizabethAce/Number-Guessing-Game" target="_blank" rel="noreferrer">
-          <img width="200" alt="NumGuessGameBlueV" src="https://github.com/user-attachments/assets/a36ea239-1e91-400f-b58d-dcc82c80c44b" style="display:block;" margin:auto; />
+        <p align="center">
+          <img width="180" alt="NumGuessGameBlueV" src="https://github.com/user-attachments/assets/a36ea239-1e91-400f-b58d-dcc82c80c44b" style="display:block; margin:auto;" />
+        </p>
         </a>
         <p align="center">
           <b>Number Guessing Game</b>
         </p>
         <p align="center" style="font-size: 12px;">
-          A number guessing game that takes user input and randomly generates the correct number at each runtime using the Python random module.
+          Interactive Python game using randomized number generation.
         </p>
         <p align="center">
-         <b>Tech:</b><br> Python • Random Module
+         <b>Tech:</b><br> Python
         </p>
-      </div>
-    </td>
-        <!-- Project 3 -->
-    <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
-      <div>
-        <a href="https://github.com/ElizabethAce/Local-Network-Security-Monitor" target="_blank" rel="noreferrer">
-          <img width="200" alt="LocalNetSecMonitor" src="https://github.com/user-attachments/assets/d35fe3f7-6bec-4088-8a92-2c823b21c64c" style="display:block;" margin:auto; />
-        </a>
-        <p align="center">
-          <b>Local Network Security Monitor</b>
-        </p>
-        <p align="center" style="font-size: 12px;">
-          A network monitor tool to monitor connected devices and alert user of any potential security threats.
-        </p>
-        <p align="center">
-         <b>Tech:</b><br> Python • SQLite Database • Scapy Module
+        <p align="center" font-size: 5px;">
+          🟢 Completed
         </p>
       </div>
     </td>
