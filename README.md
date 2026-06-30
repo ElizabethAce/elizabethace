@@ -87,19 +87,24 @@
           <b>Number Guessing Game</b>
         </p>
         <p align="center">
-          Interactive Python game using randomized number generation.
+          <small>
+            Interactive Python game using randomized number generation.
+          </small>
         </p>
         <p align="center">
-         <b>Tech:</b><br> Python
+         <small><b>Tech:</b><br> Python</small>
         </p>
         <p align="center">
-          🟢 Completed
+          <sub>
+            🟢 Completed
+          </sub>
         </p>
       </div>
     </td>
   </tr>
 </table>
 
+## Additional Projects  
 - [**Portable Security Device**](https://github.com/ElizabethAce/Portable-Security-Device)  
   A travel-ready intrusion detection device for hotel rooms and homes.  
   **Tech:** ESP32, sensors, LEDs, buzzer, Swift (iOS app), embedded C.  
