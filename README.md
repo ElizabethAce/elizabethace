@@ -26,65 +26,73 @@
     <!-- Project 1 -->
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
       <div>
-        <a href="https://github.com/ElizabethAce/Local-Network-Security-Monitor" target="_blank" rel="noreferrer">
         <p align="center">
-          <img width="180" alt="LocalNetSecMonitor" src="https://github.com/user-attachments/assets/d35fe3f7-6bec-4088-8a92-2c823b21c64c" style="display:block; margin:auto;"/>
+          <a href="https://github.com/ElizabethAce/Local-Network-Security-Monitor" target="_blank" rel="noreferrer">
+          <img width="180" height="180" alt="LocalNetSecMonitor" src="https://github.com/user-attachments/assets/d35fe3f7-6bec-4088-8a92-2c823b21c64c" style="display:block; margin:auto;"/>
+          </a>
         </p>
-        </a>
         <p align="center">
           <b>Network Security Monitor</b>
         </p>
-        <p align="center" style="font-size: 12px;">
-          Detects devices on a local network and alerts users to potentially unauthorized connections.
+        <p align="center">
+          <small>
+            Scans local network and alerts users to unknown devices.
+          </small>
+        </p>  
+        <p align="center">
+         <small><b>Tech:</b><br> Python • SQLite • Scapy</small>
         </p>
         <p align="center">
-         <b>Tech:</b><br> Python • SQLite • Scapy
-        </p>
-        <p align="center" font-size: 5px;">
-          🟡 Active Development
+          <sub>
+            🟡 Active Development
+          </sub>
         </p>
       </div>
     </td>
     <!-- Project 2 -->
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
       <div>
-        <a href="https://github.com/ElizabethAce/Simulated-Function_Generator" target="_blank" rel="noreferrer">
         <p align="center">
-          <img width="180" alt="FuncGenSimPixl" src="https://github.com/user-attachments/assets/b18f266c-acec-4ee0-bbbe-a4bf1253d2f7" style="display:block; margin:auto;" />
+          <a href="https://github.com/ElizabethAce/Simulated-Function_Generator" target="_blank" rel="noreferrer">
+            <img width="180" height="180" alt="FuncGenSimPixl" src="https://github.com/user-attachments/assets/b18f266c-acec-4ee0-bbbe-a4bf1253d2f7" style="display:block; margin:auto;" />
+          </a>
         </p>
-        </a>
         <p align="center">
           <b>Simulated Function Generator</b>
         </p>
-        <p align="center" style="font-size: 12px;">
-          A microcontroller-based signal generator with adjustable frequency and waveform output.
+        <p align="center">
+          <small>
+            A microcontroller-based signal generator with adjustable frequency and waveform output.
+          </small>
         </p>
         <p align="center">
-          <b>Tech:</b><br> STM32 • DAC • Keypad • Oscilloscope • Embedded C
+          <small><b>Tech:</b><br> STM32 • DAC • Keypad • Oscilloscope • Embedded C</small>
         </p>
-        <p align="center" font-size: 5px;">
-          🟢 Completed
+        <p align="center">
+          <sub>
+            🟢 Completed
+          </sub>
         </p>
       </div>
     </td>
     <!-- Project 3 -->
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
       <div>
-        <a href="https://github.com/ElizabethAce/Number-Guessing-Game" target="_blank" rel="noreferrer">
         <p align="center">
-          <img width="180" alt="NumGuessGameBlueV" src="https://github.com/user-attachments/assets/a36ea239-1e91-400f-b58d-dcc82c80c44b" style="display:block; margin:auto;" />
+          <a href="https://github.com/ElizabethAce/Number-Guessing-Game" target="_blank" rel="noreferrer">
+            <img width="180" height="180" alt="NumGuessGameBlueV" src="https://github.com/user-attachments/assets/a36ea239-1e91-400f-b58d-dcc82c80c44b" style="display:block; margin:auto;" />
+          </a>
         </p>
-        </a>
         <p align="center">
           <b>Number Guessing Game</b>
         </p>
-        <p align="center" style="font-size: 12px;">
+        <p align="center">
           Interactive Python game using randomized number generation.
         </p>
         <p align="center">
          <b>Tech:</b><br> Python
         </p>
-        <p align="center" font-size: 5px;">
+        <p align="center">
           🟢 Completed
         </p>
       </div>
