@@ -53,6 +53,21 @@
         </p>
       </div>
     </td>
+        <!-- Project 3 -->
+    <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
+      <div align="center">
+        <a href="https://github.com/ElizabethAce/Local-Network-Security-Monitor" target="_blank" rel="noreferrer">
+          <img width="1500" height="1500" alt="LocalNetSecMonitor" src="https://github.com/user-attachments/assets/d35fe3f7-6bec-4088-8a92-2c823b21c64c" />
+        </a>
+        <h3>Local Network Security Monitor</h3>
+        <p style="font-size: 14px;">
+          A network monitor tool to monitor connected devices and alert user of any potential security threats.
+        </p>
+        <p>
+         <b>Tech:</b> Python programming, SQLite database, scapy module.
+        </p>
+      </div>
+    </td>
   </tr>
 </table>
 
