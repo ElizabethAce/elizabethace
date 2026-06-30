@@ -26,8 +26,8 @@
     <!-- Project 1 -->
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
       <div>
-        <a href="https://github.com/ElizabethAce/Simulated-Function_Generator" target="_blank" rel="noreferrer">
-         <img width="250" height="250" alt="FuncGenSimPixl" src="https://github.com/user-attachments/assets/b18f266c-acec-4ee0-bbbe-a4bf1253d2f7" />
+        <a href="https://github.com/ElizabethAce/Simulated-Function_Generator" target="_blank" rel="noreferrer" style="display:block;">
+         <img width="250" height="250" alt="FuncGenSimPixl" src="https://github.com/user-attachments/assets/b18f266c-acec-4ee0-bbbe-a4bf1253d2f7" margin:auto; />
         </a>
         <h3 align="center">Simulated Function Generator</h3>
         <p align="center" style="font-size: 14px;">
@@ -41,8 +41,8 @@
     <!-- Project 2 -->
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
       <div>
-        <a href="https://github.com/ElizabethAce/Number-Guessing-Game" target="_blank" rel="noreferrer">
-          <img width="250" height="250" alt="NumGuessGameBlueV" src="https://github.com/user-attachments/assets/a36ea239-1e91-400f-b58d-dcc82c80c44b" />
+        <a href="https://github.com/ElizabethAce/Number-Guessing-Game" target="_blank" rel="noreferrer" style="display:block;">
+          <img width="250" height="250" alt="NumGuessGameBlueV" src="https://github.com/user-attachments/assets/a36ea239-1e91-400f-b58d-dcc82c80c44b" margin:auto; />
         </a>
         <h3 align="center">Number Guessing Game</h3>
         <p align="center" style="font-size: 14px;">
@@ -56,8 +56,8 @@
         <!-- Project 3 -->
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
       <div>
-        <a href="https://github.com/ElizabethAce/Local-Network-Security-Monitor" target="_blank" rel="noreferrer">
-          <img width="250" height="250" alt="LocalNetSecMonitor" src="https://github.com/user-attachments/assets/d35fe3f7-6bec-4088-8a92-2c823b21c64c" />
+        <a href="https://github.com/ElizabethAce/Local-Network-Security-Monitor" target="_blank" rel="noreferrer" style="display:block;">
+          <img width="250" height="250" alt="LocalNetSecMonitor" src="https://github.com/user-attachments/assets/d35fe3f7-6bec-4088-8a92-2c823b21c64c" margin:auto; />
         </a>
         <h3 align="center">Local Network Security Monitor</h3>
         <p align="center" style="font-size: 14px;">
