@@ -25,12 +25,12 @@
   <tr>
     <!-- Project 1 -->
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
-      <div align="center">
+      <div>
         <a href="https://github.com/ElizabethAce/Simulated-Function_Generator" target="_blank" rel="noreferrer">
-         <img width="510" height="510" alt="FuncGenSimPixl" src="https://github.com/user-attachments/assets/b18f266c-acec-4ee0-bbbe-a4bf1253d2f7" />
+         <img width="250" height="250" alt="FuncGenSimPixl" src="https://github.com/user-attachments/assets/b18f266c-acec-4ee0-bbbe-a4bf1253d2f7" />
         </a>
-        <h3>Simulated Function Generator</h3>
-        <p style="font-size: 14px;">
+        <h3 align="center">Simulated Function Generator</h3>
+        <p align="center" style="font-size: 14px;">
           A microcontroller-based signal generator with adjustable frequency and waveform output.
         </p>
         <p>
@@ -40,12 +40,12 @@
     </td>
     <!-- Project 2 -->
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
-      <div align="center">
+      <div>
         <a href="https://github.com/ElizabethAce/Number-Guessing-Game" target="_blank" rel="noreferrer">
-          <img width="278" height="278" alt="NumGuessGameBlueV" src="https://github.com/user-attachments/assets/a36ea239-1e91-400f-b58d-dcc82c80c44b" />
+          <img width="250" height="250" alt="NumGuessGameBlueV" src="https://github.com/user-attachments/assets/a36ea239-1e91-400f-b58d-dcc82c80c44b" />
         </a>
-        <h3>Number Guessing Game</h3>
-        <p style="font-size: 14px;">
+        <h3 align="center">Number Guessing Game</h3>
+        <p align="center" style="font-size: 14px;">
           A number guessing game that takes user input and randomly generates the correct number at each runtime using the Python random module.
         </p>
         <p>
@@ -55,12 +55,12 @@
     </td>
         <!-- Project 3 -->
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
-      <div align="center">
+      <div>
         <a href="https://github.com/ElizabethAce/Local-Network-Security-Monitor" target="_blank" rel="noreferrer">
-          <img width="500" height="500" alt="LocalNetSecMonitor" src="https://github.com/user-attachments/assets/d35fe3f7-6bec-4088-8a92-2c823b21c64c" />
+          <img width="250" height="250" alt="LocalNetSecMonitor" src="https://github.com/user-attachments/assets/d35fe3f7-6bec-4088-8a92-2c823b21c64c" />
         </a>
-        <h3>Local Network Security Monitor</h3>
-        <p style="font-size: 14px;">
+        <h3 align="center">Local Network Security Monitor</h3>
+        <p align="center" style="font-size: 14px;">
           A network monitor tool to monitor connected devices and alert user of any potential security threats.
         </p>
         <p>
